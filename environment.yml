@@ -1,0 +1,8 @@
+name: datascience
+dependencies:
+  - numpy
+  - pandas
+  - jupyter
+  - seaborn
+  - matplotlib
+  - anaconda scikit-learn
